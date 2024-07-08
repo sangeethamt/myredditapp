@@ -1,5 +1,6 @@
 # Minimal Reddit App
 Live app: https://myredditapp-sangeetha.netlify.app/
+
 [https://668be30826622a2903e79e70--myredditapp-sangeetha.netlify.app]
 
 ## Description
